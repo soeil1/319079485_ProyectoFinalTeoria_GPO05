@@ -1,8 +1,8 @@
 # Ignorar carpetas de compilación y temporales de Visual Studio
-/Debug/
-/Release/
-/x64/
-/Win32/
+Debug/
+Release/
+x64/
+Win32/
 .vs/
 
 # Ignorar archivos temporales
