@@ -12,3 +12,4 @@ Win32/
 *.tlog
 *.Build.CppClean.log
 *.user
+*.exp
