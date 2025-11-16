@@ -5,6 +5,9 @@
 **Autor:** Oscar Cruz Soria [@soeil1](https://github.com/soeil1)
 🕰️ **Fecha limite de entrega:25 Noviembre 2025
 📜 **Versión:** `v1.0.0`
+---
+Imagn de referencia 
+![168d1efd39aaf4c5e86fe06cd5dcd9e5](https://github.com/user-attachments/assets/3acdb6f8-696a-467e-9abb-317fca08eaf3)
 
 ---
 ## 🧭 Descripción General
